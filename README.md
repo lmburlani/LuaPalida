@@ -23,9 +23,11 @@ Comando?
 1. Usando um terminal ou prompt de comando, navegue até o local onde você armazenou o arquivo. Exemplo:
 ``` cd C:\Users\Sharl\Desktop\Python ```
 
-2.Rode o Script
-``` python lua_palida.py ```
+2. Rode o Script
+``` 
+python lua_palida.py 
+```
 
-3.A mensagem de abertura irá recebê-lo e o jogo irá começar.
+3. A mensagem de abertura irá recebê-lo e o jogo irá começar.
 
 Pretendo fazer uma versão web desse jogo no futuro.
