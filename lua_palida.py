@@ -133,7 +133,7 @@ def part2():
     print("Colha sua recompensa.")
     print()
     time.sleep(2)
-    print("LUNA PÁLIDA SORRI PARA VOCÊ!")
+    print("LUA PÁLIDA SORRI PARA VOCÊ!")
     time.sleep(1)
     print()
     print()
