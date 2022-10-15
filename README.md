@@ -21,7 +21,9 @@ Comando?
 # Como executar o jogo:
 
 1. Usando um terminal ou prompt de comando, navegue até o local onde você armazenou o arquivo. Exemplo:
-``` cd C:\Users\Sharl\Desktop\Python ```
+``` 
+cd C:\Users\Sharl\Desktop\Python 
+```
 
 2. Rode o Script
 ``` 
