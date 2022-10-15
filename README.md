@@ -1,4 +1,4 @@
-# LuaPalida
+# Lua Pálida
 
 Jogo de terror baseado em texto de uma lenda urbana da internet (creepypasta), ideia tirada desse vídeo:
 
